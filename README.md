@@ -33,7 +33,7 @@ I am a passionate Industrial Engineer who leverages data analysis to enhance eff
 ---
 
 ## 📄 Resume  
-📌 [Download my resume](https://github.com/your-username/your-repo/raw/main/resume.pdf) *(Upload a PDF to your repo)*  
+📌 [Download my resume](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Online%20Retail%20Analysis/Jeremiah%20Elorm%20Aleawobu.CV.pdf)  
 
 ---
 
