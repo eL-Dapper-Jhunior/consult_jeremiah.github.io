@@ -26,7 +26,7 @@ I am a passionate Industrial Engineer who leverages data analysis to enhance eff
 - Total Quantity sold: *5M units*
 - Average Unit Price: *$3.46*
 - Total Customers: *4372*   
-**Visual:** ![Dashboard Screenshot](images/dashboard.png) *(Upload images to an `/images` folder in your repo)*  
+**Visual:** ![Dashboard Screenshot](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Online%20Retail%20Analysis/Retail.png) *(Upload images to an `/images` folder in your repo)*  
 
     
 
