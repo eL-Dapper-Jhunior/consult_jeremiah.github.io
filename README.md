@@ -56,7 +56,7 @@ I am a passionate Industrial Engineer who leverages data analysis to enhance eff
 ---
 
 ## 📬 Let’s Connect!  
-- LinkedIn: [your-profile](www.linkedin.com/in/jeremiah-elorm-aleawobu-b04439193)  
+- LinkedIn: [LinkedIn](www.linkedin.com/in/jeremiah-elorm-aleawobu-b04439193)  
 - Email: elormjerry64@gmail.com 
   
 
