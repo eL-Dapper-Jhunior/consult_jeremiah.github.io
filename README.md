@@ -33,7 +33,7 @@ I am a dedicated Data Analyst who leverages data analysis to enhance business ef
 **Tools:** Excel, PowerBI 
 **Goal:** [The primary goal of this project was to understand the investment preferences and behavior of individuals by analyzing survey data].  
 **Key Insights:**  
-- T### Key Insights Summary:  
+- ### Key Insights Summary:  
 The Investment Preference Analysis revealed the following key findings:  
 1. **Gold as the Most Preferred Investment** – Gold ranked highest due to its reputation as a safe asset.  
 2. **Top Investment Options (in order)** – Gold, Debentures, Government Bonds, Fixed Deposits, Equity Market, Mutual Funds, and Public Provident Fund (PPF).  
