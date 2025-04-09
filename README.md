@@ -17,7 +17,7 @@ I am a dedicated Data Analyst who leverages data analysis to enhance business ef
 
 ## 📂 Featured Projects  
 
-### 1. [Online Retail Data Analysis and Dashboard Insights](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/Online%20Retail%20Analysis)  
+### 1. [Online Retail Data Analysis and Dashboard Insights](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/OnlineRetail)  
 **Tools:** VS Code, ython, PowerBI 
 **Goal:** [To gain actionable insights on sales performance, customer behaviour and revenue generation].  
 **Key Insights:**  
@@ -47,7 +47,7 @@ This analysis underscores a preference for stable, low-risk investments, especia
 ---
 
 ## 📄 Resume  
-📌 [Download my resume](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Jeremiah%20Elorm%20Aleawobu.CV.pdf)  
+📌 [Download my resume](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Jeremiah%20Elorm%20Aleawobu.CV_110951.docx.pdf)  
 
 ---
 
