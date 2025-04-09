@@ -11,7 +11,7 @@ I am a dedicated Data Analyst who leverages data analysis to enhance business ef
 ## 🛠️ Technical Skills  
 **Languages:** SQL, Python (Pandas, NumPy) 
 **Tools:** Excel, Power BI, Jupyter Notebooks, Excel, MS Word, Google Spreadsheet, Google Docs etc. 
-**Methods:** Data cleaning, Data Analysis, Visualization-dashboarding  
+**Methods:** Data cleaning, Data Analysis, Visualization- Dashboarding  
 
 ---
 
@@ -20,19 +20,19 @@ I am a dedicated Data Analyst who leverages data analysis to enhance business ef
 ### 1. [Online Retail Data Analysis and Dashboard Insights](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/OnlineRetail)  
 **Tools:** VS Code, ython, PowerBI 
 **Goal:** [To gain actionable insights on sales performance, customer behaviour and revenue generation].  
-**Key Insights:**  
+**Key Insights**  
 - Total Revenue: *$8.3M*.
 - Number of Countries: *37*
 - Total Quantity sold: *5M units*
 - Average Unit Price: *$3.46*
 - Total Customers: *4372*   
-**Visual:** ![Dashboard Screenshot](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Online%20Retail%20Analysis/Retail.png)  
+**Visual:** ![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/OnlineRetail/Retail.png)  
 
 
 ### 2. [Investment Preference Analysis](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/Investment)  
 **Tools:** Excel, PowerBI 
-**Goal:** [The primary goal of this project was to understand the investment preferences and behavior of individuals by analyzing survey data].  
-**Key Insights:**  
+**Goal:** [This project's primary goal was to understand individuals' investment preferences and behavior by analyzing survey data].  
+**Key Insights**  
 - ### Key Insights Summary:  
 The Investment Preference Analysis revealed the following key findings:  
 1. **Gold as the Most Preferred Investment** – Gold ranked highest due to its reputation as a safe asset.  
@@ -42,7 +42,7 @@ The Investment Preference Analysis revealed the following key findings:
 5. **Demographic Influence** – Age and risk tolerance affected investment choices, with younger participants favoring equities.  
 
 This analysis underscores a preference for stable, low-risk investments, especially in uncertain times.
-**Visual:** ![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Investment_Preference_Analysis/Dashboard.jpeg) 
+**Visual:** ![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Investment/Dashboard.jpeg) 
 
 
 ---
