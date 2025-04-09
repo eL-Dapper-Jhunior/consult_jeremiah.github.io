@@ -29,7 +29,7 @@ I am a dedicated Data Analyst who leverages data analysis to enhance business ef
 **Visual:** ![Dashboard Screenshot](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Online%20Retail%20Analysis/Retail.png)  
 
 
-### 2. [Investment Preference Analysis](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/Investment_Preference_Analysis)  
+### 2. [Investment Preference Analysis](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/Investment)  
 **Tools:** Excel, PowerBI 
 **Goal:** [The primary goal of this project was to understand the investment preferences and behavior of individuals by analyzing survey data].  
 **Key Insights:**  
@@ -43,6 +43,26 @@ The Investment Preference Analysis revealed the following key findings:
 
 This analysis underscores a preference for stable, low-risk investments, especially in uncertain times.
 **Visual:** ![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Investment_Preference_Analysis/Dashboard.jpeg) 
+
+
+---
+### 3. [Ghana Adventure Business Insight](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/Ghana%20Adventures)  
+**Tools:** Excel, PowerBI  
+**Goal:** The primary goal of this project was to analyze booking patterns and revenue streams for a Ghana-based adventure tourism business.  
+**Key Insights:**  
+- ### Key Insights Summary:  
+The Ghana Adventure Business analysis revealed the following key findings:
+1. **Revenue and Customer Volume** - Total revenue of 54K GHS generated from 76 customers.
+2. **Booking Channels** - Travel Agency (19) is the most popular booking channel, followed by Website (17), Online (15), and Walk-ins (14).
+3. **Tour Package Performance** - The most profitable packages are New Year Safari (32K GHS), Safari Adventure (26.4K GHS), and Christmas Safari (24K GHS).
+4. **Seasonal Trends** - Peak tourist season shows significantly higher bookings and revenue than off-peak season.
+5. **Customer Segmentation** - Booking types are divided between Private Tours (32%), Group Tours (31%), and Individual bookings (28%).
+6. **Monthly Revenue Patterns** - A distinctive revenue pattern shows peaks in January and December with a significant dip in November.
+7. **Repeat Customers** - About 24% of customers are repeat visitors, who generate proportionally higher revenue than first-time customers.
+
+**Visual:** ![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Ghana%20Adventures/General_overview.png) 
+
+This analysis highlights the importance of seasonal offerings, the value of traditional booking channels, and the revenue potential of repeat customers for the Ghana adventure tourism business.
 
 ---
 
@@ -63,6 +83,8 @@ This analysis underscores a preference for stable, low-risk investments, especia
 5.	[Prepare Data For Exploration](https://www.coursera.org/account/.accomplishments/certificate/.4A46FU5LP667) | Coursera
 
 6.	[Ask Questions To Make Data Driven Decisions](https://www.coursera.org/account/.accomplishments/certificate/.G9DFLMCT39NL) | Coursera
+   
+7.	[Data Analytics Essentials](https://www.credly.com/badges/15841c49-d7d3-4a8b-b307-8239b7e7b5ed/linked_in_profile) | Cisco
 
 	
 
