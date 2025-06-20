@@ -45,11 +45,11 @@ This project showcases a full-cycle financial analysis using historical stock da
 
 ##  Key Insights & KPIs
 
-* 📉 **Min Volume**: `0`
-* 📈 **Max Volume**: `94 Billion`
-* 💰 **Total Open**: `$835.39M`
-* 💰 **Total Close**: `$835.29M`
-* 🏆 **Top Index by Volume**:
+**Min Volume**: `0`
+**Max Volume**: `94 Billion`
+**Total Open**: `$835.39M`
+**Total Close**: `$835.29M`
+**Top Index by Volume**:
 
   * 1. `^GSPTSE`
   * 2. `^NYA`
@@ -62,8 +62,8 @@ The dataset spans 5 years of daily trading data across various financial instrum
 
 ---
 
-### 2.  [Retail Analytics & Revenue Optimization Project](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/XYZ)
-> 🔍 From Data to Decisions: Uncovering sales insights, forecasting revenue, and optimizing product strategy to reach a \$50M revenue target.
+### 2. [Retail Analytics & Revenue Optimization Project](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/XYZ)
+From Data to Decisions: Uncovering sales insights, forecasting revenue, and optimizing product strategy to reach a \$50M revenue target.
 
 ---
 
@@ -71,11 +71,11 @@ The dataset spans 5 years of daily trading data across various financial instrum
 
 This project explores a comprehensive retail transaction dataset to derive **actionable insights**, build a **forecasting model**, and apply **optimization techniques** to maximize revenue. Through the power of **Python**, **Power BI**, and **machine learning**, I addressed key business questions, forecasted future sales, and recommended optimal inventory levels.
 
-> ✅ Goal: **Help a retail business reach \$50 million in revenue through data-driven planning and optimization.**
+**Goal: Help a retail business reach \$50 million in revenue through data-driven planning and optimization.**
 
 ---
 
-## 📊 Tools & Technologies
+## Tools & Technologies
 
 | Category      | Tools                                       |
 | ------------- | ------------------------------------------- |
