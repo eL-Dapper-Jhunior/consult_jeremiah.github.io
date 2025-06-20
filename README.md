@@ -1,6 +1,6 @@
 # Jeremiah Elorm Aleawobu | Data Analyst 📊
 
-Accra, Ghana. | [Email](mailto:elormjerry64@gmail.com) | 🔗 [LinkedIn](www.linkedin.com/in/jeremiah-elorm-aleawobu-b04439193) | 🐱 [GitHub](https://github.com/eL-Dapper_Jhunior)
+Accra, Ghana. | [Email](mailto:elormjerry64@gmail.com) | 🔗 [LinkedIn](www.linkedin.com/in/jeremiah-elorm-aleawobu-b04439193) | 🐱 [GitHub]([https://github.com/eL-Dapper_Jhunior](https://github.com/jeremiah-elorm))
 
 ---
 
