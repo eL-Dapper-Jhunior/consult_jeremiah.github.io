@@ -1,24 +1,46 @@
-# Jeremiah Elorm Aleawobu | Data Analyst 📊
+![image](https://github.com/user-attachments/assets/10bfbf87-d740-49b0-80c2-538757f0e9de)# Jeremiah Elorm Aleawobu | Data Analyst 📊
 
 📍 Accra,Ghana. | elormjerry64@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/jeremiah-elorm-aleawobu-b04439193) | 🐱 [GitHub](https://github.com/eL-Dapper_Jhunior)
 
 ---
 
-## 👋 About Me  
-I am a dedicated Data Analyst who leverages data analysis to enhance business efficiency and solve complex problems. With strong skills in data cleaning, visualization, and statistical analysis, I focus on extracting valuable insights to support data-driven decision-making. Proficient in Excel, SQL, Python, and Power BI, I analyze large datasets, track performance metrics, and identify trends that optimize processes and improve productivity.
+##  About Me  
+As a passionate and results-driven Data Analyst, I have built a diverse portfolio of projects that demonstrate strong proficiency in data analysis, visualization, statistical modeling, and business intelligence. My portfolio showcases a blend of real-world applications and synthetic data projects, spanning multiple industries including finance, retail, tourism, insurance, and healthcare.
 ---
 
-## 🛠️ Technical Skills  
-**Languages:** SQL, Python (Pandas, NumPy) 
-**Tools:** Excel, Power BI, Jupyter Notebooks, Excel, MS Word, Google Spreadsheet, Google Docs etc. 
-**Methods:** Data cleaning, Data Analysis, Visualization- Dashboarding  
+## Technical Skills  
+**Languages & Libraries:**
+- Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Statsmodels)
+- SQL
 
+**Tools & Platforms:**
+- Excel, Power BI, Jupyter Notebooks, Google Sheets, Google Docs, MS Word, Google Colab, VS Code
+
+**Techniques & Methods:**
+- Data Cleaning & Wrangling
+- Exploratory Data Analysis (EDA)
+- Data Visualization & Dashboarding
+- Statistical Analysis & Forecasting
+- Machine Learning (Supervised Models)
+- Optimization & Scenario Modeling
+- API Integration & Web Scraping (basic)
 ---
 
 ## 📂 Featured Projects  
+### This project showcases a full-cycle financial analysis using historical stock data from Yahoo Finance. It includes feature engineering, trend analysis, forecasting using ARIMA and Prophet, and performance evaluation — built to reflect real-world business and investment scenarios.
+
+**📊 Project Overview**
+**Dataset:** yahoo_finance_dataset (2018–2023)
+**Total Records:** 104224 rows
+**Columns:** Index, Date, Open, High, Low, Close, Adj Close, Volume, CloseUSD
+Source: Yahoo Finance Kaggle
+Format: .csv
+The dataset spans 5 years of daily trading data across various financial instruments like equities, ETFs, and indexes [readmore](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Yahoo_Finance/README.md)
+
+### 1. [Yahoo Finance Forecasting (2018–2023)](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/Yahoo_Finance)
 
 ### 1. [Online Retail Data Analysis and Dashboard Insights](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/OnlineRetail)  
-**Tools:** VS Code, ython, PowerBI 
+**Tools:** VS Code, Python, PowerBI 
 **Goal:** [To gain actionable insights on sales performance, customer behaviour and revenue generation].  
 **Key Insights**  
 - Total Revenue: *$8.3M*.
