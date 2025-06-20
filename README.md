@@ -51,10 +51,10 @@ This project showcases a full-cycle financial analysis using historical stock da
 **Total Close**: `$835.29M`
 **Top Index by Volume**:
 
-  * 1. `^GSPTSE`
-  * 2. `^NYA`
-  * 3. `^IIC`
-  * 4. `^HSI`
+  *  `^GSPTSE`
+  *  `^NYA`
+  *  `^IIC`
+  *  `^HSI`
 
 These insights inform trading strategies, risk mitigation, and investment planning.
 
@@ -116,57 +116,114 @@ The dataset spans over **3 years of retail transactions**, including:
 
 ---
 
-### 1. [Online Retail Data Analysis and Dashboard Insights](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/OnlineRetail)  
-**Tools:** VS Code, Python, PowerBI 
-**Goal:** [To gain actionable insights on sales performance, customer behaviour and revenue generation].  
-**Key Insights**  
-- Total Revenue: *$8.3M*.
-- Number of Countries: *37*
-- Total Quantity sold: *5M units*
-- Average Unit Price: *$3.46*
-- Total Customers: *4372*   
-**Visual:** ![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/OnlineRetail/Retail.png)  
-
-
-### 2. [Investment Preference Analysis](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/Investment)  
-**Tools:** Excel, PowerBI 
-**Goal:** [This project's primary goal was to understand individuals' investment preferences and behavior by analyzing survey data].  
-**Key Insights**  
-- ### Key Insights Summary:  
-The Investment Preference Analysis revealed the following key findings:  
-1. **Gold as the Most Preferred Investment** – Gold ranked highest due to its reputation as a safe asset.  
-2. **Top Investment Options (in order)** – Gold, Debentures, Government Bonds, Fixed Deposits, Equity Market, Mutual Funds, and Public Provident Fund (PPF).  
-3. **Focus on Low-Risk Investments** – Participants leaned toward conservative investments like bonds, gold, and fixed deposits.  
-4. **Investment Purpose** – Common goals included long-term savings, passive income, and inflation hedging.  
-5. **Demographic Influence** – Age and risk tolerance affected investment choices, with younger participants favoring equities.  
-
-This analysis underscores a preference for stable, low-risk investments, especially in uncertain times.
-**Visual:** ![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Investment/Dashboard.jpeg) 
-
-
----
 ### 3. [Ghana Adventure Business Insight](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/Ghana%20Adventures)  
-**Tools:** Excel, PowerBI  
-**Goal:** The primary goal of this project was to analyze booking patterns and revenue streams for a Ghana-based adventure tourism business.  
-**Key Insights:**  
-- ### Key Insights Summary:  
-The Ghana Adventure Business analysis revealed the following key findings:
-1. **Revenue and Customer Volume** - Total revenue of 54K GHS generated from 76 customers.
-2. **Booking Channels** - Travel Agency (19) is the most popular booking channel, followed by Website (17), Online (15), and Walk-ins (14).
-3. **Tour Package Performance** - The most profitable packages are New Year Safari (32K GHS), Safari Adventure (26.4K GHS), and Christmas Safari (24K GHS).
-4. **Seasonal Trends** - Peak tourist season shows significantly higher bookings and revenue than off-peak season.
-5. **Customer Segmentation** - Booking types are divided between Private Tours (32%), Group Tours (31%), and Individual bookings (28%).
-6. **Monthly Revenue Patterns** - A distinctive revenue pattern shows peaks in January and December with a significant dip in November.
-7. **Repeat Customers** - About 24% of customers are repeat visitors, who generate proportionally higher revenue than first-time customers.
+**Client Project | Industry: Travel & Tourism | Tools: Excel, Power BI**
 
-**Visual:** ![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Ghana%20Adventures/General_overview.png) 
+## 📌 Overview
 
-This analysis highlights the importance of seasonal offerings, the value of traditional booking channels, and the revenue potential of repeat customers for the Ghana adventure tourism business.
+This project was developed for a local adventure tourism business based in Tamale, Ghana. The objective was to analyze booking patterns, customer behavior, and revenue streams to uncover actionable insights that can enhance strategic planning and business performance.
 
 ---
 
-## 📄 Resume  
-📌 [Download my resume](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Jeremiah%20Elorm%20Aleawobu.CV_110951.docx.pdf)  
+## 🎯 Project Goal
+
+The primary goal was to analyze booking data to:
+
+- Identify peak seasons and booking trends
+- Evaluate the performance of various tour packages
+- Understand customer segmentation and repeat behavior
+- Provide data-driven recommendations for revenue growth and customer retention
+
+## 🔍 Key Insights Summary
+
+- 💰 **Revenue & Customer Volume**:  
+  - A total of **54,000 GHS** in revenue was generated from **76 customers**
+
+- 🧭 **Booking Channels**:  
+  - Most bookings were made via **Travel Agencies (19)**, followed by **Website (17)**, **Online platforms (15)**, and **Walk-ins (14)**
+
+- 🧳 **Top Performing Packages**:  
+  - **New Year Safari**: 32K GHS  
+  - **Safari Adventure**: 26.4K GHS  
+  - **Christmas Safari**: 24K GHS [read more](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Ghana%20Adventures/README.md)
+---
+
+
+### 4. [🛒 Online Retail Data Analysis and Dashboard Insights](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/OnlineRetail)  
+**Project Type:** Business Intelligence & Data Analysis  
+**Industry:** E-commerce / Retail  
+**Tools Used:** Python (VS Code), Power BI
+
+---
+
+## 📌 Project Overview
+
+This project explores a global **online retail dataset** to uncover key business metrics and customer behavior patterns. The goal was to deliver actionable insights to improve sales performance, revenue generation, and customer engagement across international markets.
+
+---
+
+## 🎯 Project Goal
+
+- Analyze sales performance and revenue trends  
+- Explore customer behavior by region, frequency, and purchasing power  
+- Visualize KPIs in an interactive dashboard for executive decision-making  
+- Provide strategic recommendations for growth
+
+---
+  ## 📊 Key Insights
+
+- 💰 **Total Revenue:** **$8.3 Million**  
+- 🌍 **Countries Represented:** **37**  
+- 📦 **Total Quantity Sold:** **5 Million Units**  
+- 💲 **Average Unit Price:** **$3.46**  
+- 👥 **Total Unique Customers:** **4,372**  [read more](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/OnlineRetail/README.md)
+  ---
+
+
+### 5. [💼 Investment Preference Analysis](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/Investment)  
+**Project Type:** Behavioral Data Analysis | **Tools:** Excel, Power BI  
+**Focus:** Understanding individual investment behaviors, preferences, and risk appetite using survey data.
+
+---
+
+## 📌 Project Overview
+
+This project analyzed self-reported survey data to explore how different individuals choose investment products. The aim was to help financial service providers understand customer preferences and tailor financial offerings accordingly.
+
+---
+
+## 🎯 Project Goal
+
+- Identify the most preferred types of investments
+- Explore the role of risk appetite and demographics in investment decisions
+- Visualize key patterns across age groups and investment goals
+- Provide actionable insights for investor-targeted financial strategies
+
+---
+## 🔍 Key Insights Summary
+
+- 🥇 **Gold as the Most Preferred Investment:**  
+  - Ranked highest among all options due to its perception as a stable and safe asset
+
+- 📊 **Top Investment Options (in order):**  
+  - **Gold**, **Debentures**, **Government Bonds**, **Fixed Deposits**, **Equity Market**, **Mutual Funds**, and **Public Provident Fund (PPF)**
+
+- ⚖️ **Low-Risk Focus:**  
+  - Most participants favored conservative instruments like bonds, fixed deposits, and gold, indicating a preference for stability
+
+- 🎯 **Investment Goals:**  
+  - Respondents invested primarily for **long-term savings**, **passive income**, and **hedging against inflation**
+
+- 👥 **Demographic Influence:**  
+  - Younger respondents leaned toward **equities**  
+  - Older participants preferred **bonds and fixed deposits**, suggesting risk-averse behavior with age
+    [read more](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Investment/README.md)
+
+
+---
+
+## 📄 CV  
+📌 [Download my CV](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Jeremiah%20Elorm%20Aleawobu.CV.pdf)  
 
 ---
 
@@ -191,8 +248,8 @@ This analysis highlights the importance of seasonal offerings, the value of trad
 ---
 
 ## 📬 Let’s Connect!  
-- LinkedIn: [LinkedIn](www.linkedin.com/in/jeremiah-elorm-aleawobu-b04439193)  
-- Email: elormjerry64@gmail.com 
+- [LinkedIn](www.linkedin.com/in/jeremiah-elorm-aleawobu-b04439193)  
+- [Email](mailto:elormjerry64@gmail.com) 
   
 
 ---
