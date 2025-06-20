@@ -43,8 +43,78 @@ This project showcases a full-cycle financial analysis using historical stock da
 
 **Format:** .csv
 
-The dataset spans 5 years of daily trading data across various financial instruments like equities, ETFs, and indexes [readmore](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Yahoo_Finance/README.md)
+##  Key Insights & KPIs
 
+* 📉 **Min Volume**: `0`
+* 📈 **Max Volume**: `94 Billion`
+* 💰 **Total Open**: `$835.39M`
+* 💰 **Total Close**: `$835.29M`
+* 🏆 **Top Index by Volume**:
+
+  * 1. `^GSPTSE`
+  * 2. `^NYA`
+  * 3. `^IIC`
+  * 4. `^HSI`
+
+These insights inform trading strategies, risk mitigation, and investment planning.
+
+The dataset spans 5 years of daily trading data across various financial instruments like equities, ETFs, and indexes [read more](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Yahoo_Finance/README.md)
+
+---
+
+### 2.  [Retail Analytics & Revenue Optimization Project](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/XYZ)
+> 🔍 From Data to Decisions: Uncovering sales insights, forecasting revenue, and optimizing product strategy to reach a \$50M revenue target.
+
+---
+
+## 🌟 Project Overview
+
+This project explores a comprehensive retail transaction dataset to derive **actionable insights**, build a **forecasting model**, and apply **optimization techniques** to maximize revenue. Through the power of **Python**, **Power BI**, and **machine learning**, I addressed key business questions, forecasted future sales, and recommended optimal inventory levels.
+
+> ✅ Goal: **Help a retail business reach \$50 million in revenue through data-driven planning and optimization.**
+
+---
+
+## 📊 Tools & Technologies
+
+| Category      | Tools                                       |
+| ------------- | ------------------------------------------- |
+| Programming   | Python (Pandas, NumPy, Seaborn, Matplotlib) |
+| Forecasting   | Prophet (Time-Series Forecasting)           |
+| Optimization  | SciPy (Linear Programming)                  |
+| Visualization | Power BI                                    |
+| Environment   | Google Colab, Jupyter Notebook              |
+
+---
+
+## 📁 Dataset Description
+
+The dataset spans over **3 years of retail transactions**, including:
+
+| Column               | Description                              |
+| -------------------- | ---------------------------------------- |
+| `CustomerID`         | Unique customer identifier               |
+| `ProductID`          | Product identifier                       |
+| `Quantity`           | Units purchased                          |
+| `Price`              | Price per unit                           |
+| `TransactionDate`    | Date of purchase                         |
+| `PaymentMethod`      | Cash, Credit, Debit, PayPal              |
+| `StoreLocation`      | Location of the store                    |
+| `ProductCategory`    | Books, Electronics, Clothing, Home Decor |
+| `DiscountApplied(%)` | % Discount on item                       |
+| `TotalAmount`        | Final transaction value after discount   |
+
+---
+
+## 📈 Key Business Questions Answered
+
+1. What are the **top-selling product categories**?
+2. How do **sales trends vary** by month, season, and region?
+3. What is the **impact of discounts** on sales performance?
+4. Which **customer segments** are most profitable?
+5. How many **units should be stocked** to hit a \$50M revenue goal? [read more](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/XYZ/README.md)
+
+---
 
 ### 1. [Online Retail Data Analysis and Dashboard Insights](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/OnlineRetail)  
 **Tools:** VS Code, Python, PowerBI 
