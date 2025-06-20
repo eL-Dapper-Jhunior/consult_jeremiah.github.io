@@ -1,6 +1,6 @@
 # Jeremiah Elorm Aleawobu | Data Analyst 📊
 
-Accra, Ghana. | [Email](mailto:elormjerry64@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/jeremiah-elorm-aleawobu-b04439193) | 🐱 [GitHub](https://github.com/eL-Dapper_Jhunior)
+Accra, Ghana. | [Email](mailto:elormjerry64@gmail.com) | 🔗 [LinkedIn](www.linkedin.com/in/jeremiah-elorm-aleawobu-b04439193) | 🐱 [GitHub](https://github.com/eL-Dapper_Jhunior)
 
 ---
 
@@ -12,8 +12,10 @@ As a passionate and results-driven Data Analyst, I have built a diverse portfoli
 **Languages & Libraries:**
 - Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Statsmodels)
 - SQL
+
 **Tools & Platforms:**
 - Excel, Power BI, Jupyter Notebooks, Google Sheets, Google Docs, MS Word, Google Colab, VS Code
+
 **Techniques & Methods:**
 - Data Cleaning & Wrangling
 - Exploratory Data Analysis (EDA)
@@ -27,14 +29,20 @@ As a passionate and results-driven Data Analyst, I have built a diverse portfoli
 
 ## 📂 Featured Projects  
 ### 1. [Yahoo Finance Forecasting (2018–2023)](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/tree/main/Yahoo_Finance)
-### This project showcases a full-cycle financial analysis using historical stock data from Yahoo Finance. It includes feature engineering, trend analysis, forecasting using ARIMA and Prophet, and performance evaluation — built to reflect real-world business and investment scenarios.
+This project showcases a full-cycle financial analysis using historical stock data from Yahoo Finance. It includes feature engineering, trend analysis, forecasting using ARIMA and Prophet, and performance evaluation — built to reflect real-world business and investment scenarios.
 
 **📊 Project Overview**
-**Dataset:** yahoo_finance_dataset (2018–2023)
+
+**Dataset:** Yahoo_finance_dataset (2018–2023)
+
 **Total Records:** 104224 rows
+
 **Columns:** Index, Date, Open, High, Low, Close, Adj Close, Volume, CloseUSD
-Source: Yahoo Finance Kaggle
-Format: .csv
+
+**Source:** Yahoo Finance Kaggle
+
+**Format:** .csv
+
 The dataset spans 5 years of daily trading data across various financial instruments like equities, ETFs, and indexes [readmore](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Yahoo_Finance/README.md)
 
 
