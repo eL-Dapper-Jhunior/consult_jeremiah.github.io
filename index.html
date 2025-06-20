@@ -39,6 +39,54 @@
             animation: fadeInUp 1s ease-out;
         }
 
+        /* Profile Photo Styles */
+        .profile-photo-container {
+            margin-bottom: 30px;
+            position: relative;
+        }
+
+        .profile-photo {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            border: 5px solid rgba(255, 255, 255, 0.3);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+            animation: profileGlow 3s ease-in-out infinite alternate;
+            object-fit: cover;
+            display: block;
+            margin: 0 auto;
+        }
+
+        .profile-photo:hover {
+            transform: scale(1.05);
+            border-color: rgba(255, 255, 255, 0.6);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Placeholder for when no image is uploaded */
+        .photo-placeholder {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            border: 5px solid rgba(255, 255, 255, 0.3);
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.1) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto;
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 4rem;
+            transition: all 0.3s ease;
+            animation: profileGlow 3s ease-in-out infinite alternate;
+        }
+
+        .photo-placeholder:hover {
+            transform: scale(1.05);
+            border-color: rgba(255, 255, 255, 0.6);
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.2) 100%);
+        }
+
         .header h1 {
             font-size: 3.5rem;
             font-weight: 700;
@@ -350,6 +398,15 @@
             }
         }
 
+        @keyframes profileGlow {
+            from {
+                box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+            }
+            to {
+                box-shadow: 0 15px 35px rgba(255, 255, 255, 0.1), 0 0 30px rgba(255, 255, 255, 0.2);
+            }
+        }
+
         /* Floating particles */
         .particle {
             position: fixed;
@@ -366,10 +423,41 @@
             50% { transform: translateY(-20px) rotate(180deg); }
         }
 
+        /* File Upload Styles */
+        .photo-upload-section {
+            margin-bottom: 20px;
+        }
+
+        .upload-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 15px;
+        }
+
+        .upload-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+        }
+
+        #photo-upload {
+            display: none;
+        }
+
         /* Responsive Design */
         @media (max-width: 768px) {
             .header h1 {
                 font-size: 2.5rem;
+            }
+            
+            .profile-photo, .photo-placeholder {
+                width: 150px;
+                height: 150px;
             }
             
             .contact-links {
@@ -402,6 +490,19 @@
     <div class="container">
         <!-- Header Section -->
         <header class="header">
+            <!-- Profile Photo Section -->
+            <div class="profile-photo-container">
+                <div class="photo-placeholder" id="photo-display">
+                    <i class="fas fa-user"></i>
+                </div>
+                <div class="photo-upload-section">
+                    <input type="file" id="photo-upload" accept="image/*">
+                    <label for="photo-upload" class="upload-btn">
+                        <i class="fas fa-camera"></i> Upload Photo
+                    </label>
+                </div>
+            </div>
+
             <h1><i class="fas fa-chart-bar"></i> Jeremiah Elorm Aleawobu</h1>
             <p class="subtitle">Data Analyst 📊</p>
             <div class="contact-links">
@@ -668,11 +769,4 @@
                 
                 setTimeout(() => {
                     particle.remove();
-                }, 6000);
-            }
-            
-            setInterval(createParticle, 1000);
-        });
-    </script>
-</body>
-</html>
+                },
