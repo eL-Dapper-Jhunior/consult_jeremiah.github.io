@@ -134,15 +134,15 @@ The primary goal was to analyze booking data to:
 - Understand customer segmentation and repeat behavior
 - Provide data-driven recommendations for revenue growth and customer retention
 
-## 🔍 Key Insights Summary
+##  Key Insights Summary
 
-- 💰 **Revenue & Customer Volume**:  
+-  **Revenue & Customer Volume**:  
   - A total of **54,000 GHS** in revenue was generated from **76 customers**
 
-- 🧭 **Booking Channels**:  
+-  **Booking Channels**:  
   - Most bookings were made via **Travel Agencies (19)**, followed by **Website (17)**, **Online platforms (15)**, and **Walk-ins (14)**
 
-- 🧳 **Top Performing Packages**:  
+-  **Top Performing Packages**:  
   - **New Year Safari**: 32K GHS  
   - **Safari Adventure**: 26.4K GHS  
   - **Christmas Safari**: 24K GHS [read more](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Ghana%20Adventures/README.md)
@@ -170,13 +170,13 @@ This project explores a global **online retail dataset** to uncover key business
 - Provide strategic recommendations for growth
 
 ---
-  ## 📊 Key Insights
+## 📊 Key Insights
 
-- 💰 **Total Revenue:** **$8.3 Million**  
-- 🌍 **Countries Represented:** **37**  
-- 📦 **Total Quantity Sold:** **5 Million Units**  
-- 💲 **Average Unit Price:** **$3.46**  
-- 👥 **Total Unique Customers:** **4,372**  [read more](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/OnlineRetail/README.md)
+-  **Total Revenue:** **$8.3 Million**  
+-  **Countries Represented:** **37**  
+-  **Total Quantity Sold:** **5 Million Units**  
+-  **Average Unit Price:** **$3.46**  
+-  **Total Unique Customers:** **4,372**  [read more](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/OnlineRetail/README.md)
   ---
 
 
@@ -202,19 +202,19 @@ This project analyzed self-reported survey data to explore how different individ
 ---
 ## 🔍 Key Insights Summary
 
-- 🥇 **Gold as the Most Preferred Investment:**  
+-  **Gold as the Most Preferred Investment:**  
   - Ranked highest among all options due to its perception as a stable and safe asset
 
-- 📊 **Top Investment Options (in order):**  
+-  **Top Investment Options (in order):**  
   - **Gold**, **Debentures**, **Government Bonds**, **Fixed Deposits**, **Equity Market**, **Mutual Funds**, and **Public Provident Fund (PPF)**
 
-- ⚖️ **Low-Risk Focus:**  
+- ⚖ **Low-Risk Focus:**  
   - Most participants favored conservative instruments like bonds, fixed deposits, and gold, indicating a preference for stability
 
-- 🎯 **Investment Goals:**  
+-  **Investment Goals:**  
   - Respondents invested primarily for **long-term savings**, **passive income**, and **hedging against inflation**
 
-- 👥 **Demographic Influence:**  
+-  **Demographic Influence:**  
   - Younger respondents leaned toward **equities**  
   - Older participants preferred **bonds and fixed deposits**, suggesting risk-averse behavior with age
     [read more](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Investment/README.md)
